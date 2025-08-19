@@ -13,4 +13,4 @@ class Student {
         s1.displayInfo();
     }
 }
-.java 
+
